@@ -117,7 +117,7 @@ For a complete list of metrics for each endpoint, see :ref:`Available Metrics <m
 MinIO Grafana Dashboard
 -----------------------
 
-MinIO also publishes two :ref:`Grafana Dashboards <minio-grafana>` for visualizing collected metrics. 
+MinIO also publishes :ref:`Grafana Dashboards <minio-grafana>` for visualizing collected metrics. 
 For more complete documentation on configuring a Prometheus-compatible data source for Grafana, see the :prometheus-docs:`Prometheus documentation on Grafana Support <visualization/grafana/>`.
 
 .. _minio-metrics-and-alerts-available-metrics:
